@@ -4,7 +4,8 @@ Take a look at the opening section of the first Readme on AngularJS:
 
 *This had its disadvantages, as data displayed on the page could only be updated when the user refreshes. This also meant no smooth transitions between pages.*
 
-##Why Does This Not Work? 
+
+## Why Does This Not Work? 
 
 It’s overly technical and dry and especially for a first reading, we need to do a better job of engaging students. Where's the excitement that helps to show why this matters? 
 
