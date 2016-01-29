@@ -15,4 +15,4 @@ Plus we throw out statements that we don’t really explain. For example, what d
 
 Go to the next lesson to see how we improved this beginning. 
 
-<a href='https://learn.co/lessons/example-a-not-so-great-beginning' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/example-a-not-so-great-beginning' title='Take a look at the opening section of the first Readme on AngularJS:'>Take a look at the opening section of the first Readme on AngularJS:</a> on Learn.co and start learning to code for free.</p>
